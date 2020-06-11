@@ -11,7 +11,7 @@ function forLoop(gear){
       else{
         [...gear,"I am ${1} strange loops."]
       }
-      
+
 }
 return gear
 }
