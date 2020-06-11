@@ -10,3 +10,14 @@ function forLoop(gear){
     }
 return gear
 }
+
+
+let num = 10
+
+function whileLoop(10 > 0){
+  console.log(--num)
+
+
+return done
+  
+}
