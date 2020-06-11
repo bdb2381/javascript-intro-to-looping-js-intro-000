@@ -14,5 +14,5 @@ function forLoop(array){
       }
 
 }
-return gear
+return array
 }
