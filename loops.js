@@ -19,7 +19,7 @@ function whileLoop(num){
 }
 
 
-let num1 = 10
+//let num1 = 10
 let i = 9
 function incrementVariable() {
   i = i + 1;
