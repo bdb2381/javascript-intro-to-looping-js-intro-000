@@ -14,7 +14,7 @@ return gear
 
 let num = 10
 
-function whileLoop(10 > 0){
+function whileLoop(num > 0){
   console.log(--num)
 
 
