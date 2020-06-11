@@ -10,7 +10,7 @@ function forLoop(gear){
       }
 
       else{
-        gear.push("I am ${1} strange loops.")
+        gear.push('I am ${1} strange loops.'')
       }
 
 }
