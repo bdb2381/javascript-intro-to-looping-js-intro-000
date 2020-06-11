@@ -1,6 +1,4 @@
  let gear = ["cams", "winter tent", "crampons", "helmet"]
-
-
 function forLoop(gear){
 
   for (let i = 0; i < 25; i++ ){
@@ -13,7 +11,6 @@ return gear
 
 
 let num = 10
-
 function whileLoop(num){
   while (num > 0) {
   console.log(--num)
