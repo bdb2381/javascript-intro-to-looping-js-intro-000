@@ -7,5 +7,5 @@ function forLoop(gear){
       if (i === 1){ gear.push("I am 1 strange loop.")  }
       else {gear.push('I am ${i} strange loops.') }
     }
-return array
+return gear
 }
