@@ -1,4 +1,4 @@
- gear = ["cams", "winter tent", "crampons", "helmet"]
+ let gear = ["cams", "winter tent", "crampons", "helmet"]
 
 
 function forLoop(gear){
