@@ -8,7 +8,7 @@ function forLoop(gear){
       //else {gear.push('I am' ${i} 'strange loops.') }
       else {gear.push(`I am ${i} strange loop${i === 0 ? '' : 's'}.`) }
     }
-return "gear"
+return gear
 }
 
 
@@ -18,5 +18,5 @@ function whileLoop(num){
   while (num >0{
   console.log(--num)
   }
-  return "done"
+  return 'done'
 }
