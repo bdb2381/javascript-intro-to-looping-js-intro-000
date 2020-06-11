@@ -20,7 +20,7 @@ function whileLoop(num){
 
 
 let int = 10
-let i = 10
+let i = 9
 function incrementVariable() {
   i = i + 1;
   return i;
