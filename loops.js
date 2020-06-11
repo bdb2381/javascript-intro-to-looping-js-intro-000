@@ -25,7 +25,7 @@ function doWhileLoop(int){
   } while ( incrementVariable() <= num )
 }
 
-let i =
+let i = 10
 function incrementVariable() {
   i = i + 1;
   return i;
